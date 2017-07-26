@@ -2,7 +2,7 @@
 A raspberry pi based star trek tricorder with emmision spectrometre, environmental monitoring and more.
 
 
-
+# Work in Progress, more details and files coming soon!
 
 What is this?
 
@@ -13,19 +13,19 @@ So far it seems like this should detect: spectral emmisions, temperature, humidi
 
 
 Parts:
-Raspberry pi zero
-SainSmart Camera Module Board 5MP
-Adafruit PowerBoost 500 Basic 
-HMC5983 3-Axial Compass SPI Board I2C 
-LANDZO 3.5 Inch Touch Screen with Touch Pen
-Adafruit AMG8833 IR Thermal Camera Breakout
-SI1145 Digital UV Index / IR / Visible Light Sensor
-Adafruit MiCS5524 CO, Alcohol and VOC Gas Sensor Breakou
-Adafruit Silicon MEMS Microphone Breakout
-Lithium Ion Polymer Battery - 3.7v 2500mAh
-Adafruit Mini Lipo w/Mini-B USB Jack - USB LiIon/LiPoly charge
-Speaker module(Unknown part number)
-Temp/Humidity sensor(Unknown part number)
+* Raspberry pi zero
+* SainSmart Camera Module Board 5MP
+* Adafruit PowerBoost 500 Basic 
+* HMC5983 3-Axial Compass SPI Board I2C 
+* LANDZO 3.5 Inch Touch Screen with Touch Pen
+* Adafruit AMG8833 IR Thermal Camera Breakout
+* SI1145 Digital UV Index / IR / Visible Light Sensor
+* Adafruit MiCS5524 CO, Alcohol and VOC Gas Sensor Breakout
+* Adafruit Silicon MEMS Microphone Breakout
+* Lithium Ion Polymer Battery - 3.7v 2500mAh
+* Adafruit Mini Lipo w/Mini-B USB Jack - USB LiIon/LiPoly charge
+* Speaker module(Unknown part number)
+* Temp/Humidity sensor(Unknown part number)
 
 
 
